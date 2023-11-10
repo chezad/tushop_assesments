@@ -1,0 +1,21 @@
+{
+	"name": "problem_one",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start:dev": "npx nodemon",
+		"dev": "ts-node src/index.ts",
+		"test": "ts-node src/tests/index_test.ts",
+		"test-watch": "npx nodemon --exec \"npm run test\""
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^20.9.0",
+		"nodemon": "^3.0.1",
+		"ts-node": "^10.9.1",
+		"typescript": "^5.2.2"
+	}
+}
