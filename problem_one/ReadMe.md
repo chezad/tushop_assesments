@@ -4,6 +4,10 @@
 
 This project contains a tool that maximizes earnings for an employee of a specified company and displays the tasks and remaining earnings for the rest of the employees.
 
+### Demonstration Video
+
+<iframe width="640" height="360" src="https://www.loom.com/embed/bb4ee2d744fe43e99da05dd68b038cf5?sid=906fd89c-2a47-4771-9a2e-319a55d27ada" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  
 ## Technology Stack
 
 This tool is developed using the following technologies:

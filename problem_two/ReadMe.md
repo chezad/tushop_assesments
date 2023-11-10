@@ -4,6 +4,10 @@
 
 This project contains a tool that finds the lowest possible difference between two price points in a list of products to be distributed.
 
+### Demonstration Video
+
+<iframe width="640" height="360" src="https://www.loom.com/embed/f06a462835c240c3963609ff202a38cd?sid=dddff312-aca5-40f7-b545-2d0c7f9f4f3a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Technology Stack
 
 This tool is developed using the following technologies:

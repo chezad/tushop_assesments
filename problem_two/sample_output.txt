@@ -1,3 +1,0 @@
-Number of employees: NaN
-Here the goodies that are selected for distribution are:
-And the difference between the chosen goodie with highest price and the lowest price is Infinity
