@@ -6,8 +6,8 @@ This project contains a tool that maximizes earnings for an employee of a specif
 
 ### Demonstration Video
 
-<iframe width="640" height="360" src="https://www.loom.com/embed/bb4ee2d744fe43e99da05dd68b038cf5?sid=906fd89c-2a47-4771-9a2e-319a55d27ada" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/bb4ee2d744fe43e99da05dd68b038cf5-with-play.gif)](https://www.loom.com/share/f06a462835c240c3963609ff202a38cd)
+
 ## Technology Stack
 
 This tool is developed using the following technologies:

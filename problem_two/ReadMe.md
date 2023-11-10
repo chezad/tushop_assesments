@@ -6,7 +6,7 @@ This project contains a tool that finds the lowest possible difference between t
 
 ### Demonstration Video
 
-<iframe width="640" height="360" src="https://www.loom.com/embed/f06a462835c240c3963609ff202a38cd?sid=dddff312-aca5-40f7-b545-2d0c7f9f4f3a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/f06a462835c240c3963609ff202a38cd-with-play.gif)](https://www.loom.com/share/f06a462835c240c3963609ff202a38cd)
 
 ## Technology Stack
 
